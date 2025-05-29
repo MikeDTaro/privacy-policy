@@ -1,6 +1,6 @@
 Privacy Policy for FootDex
 
-Effective Date: 22/08/24
+Effective Date: 28/05/25
 
 1. Introduction
 
@@ -8,11 +8,7 @@ Welcome to FootDex. This privacy policy outlines how we collect, use, and protec
 
 2. Information We Collect
 
-2.1 Message Content
-
-    Our bot uses the Discord message content intent to read messages in the channels where it is active. The purpose of this is to monitor chat activity and determine when to spawn football players that users can collect by guessing their names.
-
-2.2 User Interaction Data
+2.1 User Interaction Data
 
     We may collect data related to your interactions with the bot, such as guesses and player collections, to improve the gameplay experience.
 
@@ -20,7 +16,7 @@ Welcome to FootDex. This privacy policy outlines how we collect, use, and protec
 
 3.1 Message Monitoring
 
-    The bot monitors messages in real-time to detect activity within a server. This information is solely used to trigger the spawning of football players based on user engagement levels.
+    The bot monitors messages in real-time to detect activity within a server. This information is solely used to trigger the spawning of football players based on user engagement levels, and does not include the content of the messages themselves.
 
 3.2 Game Progression
 
@@ -56,4 +52,4 @@ We may update this privacy policy from time to time. We will notify users of any
 
 8. Contact Us
 
-If you have any questions or concerns about this privacy policy, please contact us at https://discord.gg/SerjvxcX3t or refer to the discord user mikedtaro.
+If you have any questions or concerns about this privacy policy, please contact us at https://discord.gg/footdex or refer to the discord user mikedtaro.
